@@ -1,5 +1,5 @@
 ### Hi, there ❤♥, 
-My name is bhavik bhuva from Bhuj Kachchh Gujarat 👋 
+My name is Bhavik Bhuva from Bhuj Kachchh Gujarat 👋 
 
 
 - 🔭 I’m currently a student of CSE at Gujarat Technological University.
