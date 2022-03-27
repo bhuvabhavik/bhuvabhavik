@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhavik Bhuva</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently a undergrad student **studing CSE at Gujarat Technological University**
+- 🔭 I’m currently a undergrad student **studing CSE at HJD INSTITUTE-KERA (GTU)**
 
 - 🌱 I’m currently learning **App development and blockchain technologies**
 
-- 👯 I’m looking to collaborate for **networking**
+- 👯 I’m looking to collaborate with **Developers**
 
 - 💬 Ask me about **tech or whatever doubts you on my profile/repository.**
 
 - 📫 How to reach me **bhavikbhuva80@gmail.com**
 
-- ⚡ Fun fact **I can eat salad for the rest of my life😂💕**
+- ⚡ Fun fact **I prefer salad to Pizza😂💕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
