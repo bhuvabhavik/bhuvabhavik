@@ -1,3 +1,5 @@
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/QUIZZLER-2/main/cover.jpg)
+
 <h1 align="center">Hi 👋, I'm Bhavik Bhuva</h1>
 <h3 align="center">A passionate developer from India</h3>
 
