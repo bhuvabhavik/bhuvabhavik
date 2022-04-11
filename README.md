@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhavikbhuva80@gmail.com**
 
-- ⚡ Fun fact **I prefer Salad to Pizza😂💕**
+- ⚡ Fun fact **I prefer Salad🥗 to Pizza🍕😂💕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
