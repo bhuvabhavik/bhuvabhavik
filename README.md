@@ -1,13 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/QUIZZLER-2/main/cover.jpg)
 
-<h1 align="center">Hi 👋, I'm Bhavik Bhuva</h1>
+<h1 align="center">Hi 👋, I'm **Bhavik Bhuva**</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently a undergrad student **studing CSE at Gujarat Technological University**
 
 - 🌱 I’m currently learning **App development and blockchain technologies**
 
-- 👯 I’m looking to collaborate for **networking**
+- 👯 I’m looking to collaborate with **Developers**
 
 - 💬 Ask me about **tech or whatever doubts you on my profile/repository.**
 
