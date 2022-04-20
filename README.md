@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/QUIZZLER-2/main/cover.jpg)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/Instagram-clone/master/lib/IMG_20220408_134807.jpg)
 
 <h1 align="center">Hi 👋, I'm Bhavik Bhuva</h1>
 <h3 align="center">A passionate developer from India</h3>
