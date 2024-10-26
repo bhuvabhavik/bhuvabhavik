@@ -1,7 +1,7 @@
  
 <!-- ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/Instagram-clone/master/lib/IMG_20220408_134807.jpg) -->
 
-    <img src="https://raw.githubusercontent.com/bhuvabhavik/Instagram-clone/master/lib/IMG_20220408_134807.jpg" height="400px" alt="">
+<img src="https://raw.githubusercontent.com/bhuvabhavik/Instagram-clone/master/lib/IMG_20220408_134807.jpg" height="400px" alt="">
 
 <h1>Hi ⚡, I'm Bhavik Bhuva💫</h1>
 <h3>A passionate Full Stack Developer and SAP ABAP developer from India 🇮🇳</h3>
