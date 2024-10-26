@@ -1,11 +1,11 @@
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/bhuvabhavik/Instagram-clone/master/lib/IMG_20220408_134807.jpg)
 
 <h1 align="center">Hi ⚡, I'm Bhavik Bhuva💫</h1>
-<h3 align="center">A passionate  SAP ABAP developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer and SAP ABAP developer from India 🇮🇳</h3>
 
 - 🔭"I have completed my undergraduate degree in **Computer Science and Engineering (CSE) from Gujarat Technological University.**
 
-- 🌱 I’m currently exploring the world of  **SAP and ABAP Development👨‍💻**
+- 🌱 I’m currently exploring the world of  ** Full Stack Developemnt SAP ABAP Development👨‍💻**
 
 - 👯 I’m looking to collaborate with **Developers**
 
